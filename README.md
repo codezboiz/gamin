@@ -1,2 +1,2 @@
-# gaming
+# gamin'
 Time to game!
